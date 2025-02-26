@@ -4,13 +4,10 @@ const people = [
   { name: 'Marco', age: 67 }
 ];
 
-people.forEach((person)=>{
-  person {
-    nome : `Paolo`, age `35`}
-  
-  console.log(person)
-})
-
+people.forEach(person => {
+  console.log(person.name)
+}
+)
 
 
 // Stampa in console tutti i nomi
