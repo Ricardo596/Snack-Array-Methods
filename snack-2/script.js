@@ -4,11 +4,12 @@ const people = [
   { name: 'Marco', age: 67 }
 ];
 
-const {name, age} = people
-console.log(people);
-
-
-
+people.forEach((person)=>{
+  person {
+    nome : `Paolo`, age `35`}
+  
+  console.log(person)
+})
 
 
 
